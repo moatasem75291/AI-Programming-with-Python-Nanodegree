@@ -1,12 +1,12 @@
 # AI Programming with Python Nanodegree Journey
 
-![Nanodegree Recipient badge](Recipient_badge.jpg)
+<img src="Recipient_badge.jpg" width="200" height="200">
 
-This repository contains my journey through the "AI Programming with Python Nanodegree Program." In this program, I learned the foundations of AI and machine learning, gained proficiency in Python, NumPy, Pandas, Matplotlib, PyTorch, and linear algebra, and built the skills necessary to create neural networks.
+This repository contains my journey through the "AI Programming with Python Nanodegree Program." In this program, I will learn the foundations of AI and machine learning, gained proficiency in Python, NumPy, Pandas, Matplotlib, PyTorch, and linear algebra, and build the skills necessary to create neural networks.
 
 ## Program Overview
 
-The "AI Programming with Python Nanodegree Program" provided a comprehensive introduction to the world of artificial intelligence and machine learning. Throughout the program, I covered a wide range of topics and developed the following skills:
+The "AI Programming with Python Nanodegree Program" provided a comprehensive introduction to the world of artificial intelligence and machine learning. Throughout the program, will covered a wide range of topics and developed the following skills:
 
 - **Python:** I honed my Python programming skills, becoming proficient in this versatile language, which is a fundamental tool in AI and data science.
 
